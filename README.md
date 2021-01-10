@@ -1,4 +1,10 @@
-### Hi there 👋
+# 簡介
+這是關於我的個人簡介
+
+## 個人資料
+- 姓名: 林振可 (Jacob Lin)
+- Email: jacoblincool@gmail.com
+- Facebook: [林振可](https://www.facebook.com/jacob.lin.cool/)
 
 <!--
 **JacobLinCool/JacobLinCool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
