@@ -1,3 +1,5 @@
+![JacobLinCool's Github Stats](https://github-readme-stats.vercel.app/api?username=JacobLinCool&show_icons=true&count_private=true&hide=stars&include_all_commits=true&custom_title=GitHub%20Stats&hide_border=true)
+
 ## 個人資料
 - 姓名: 林振可 (Jacob Lin)
 - Email: jacoblincool@gmail.com
