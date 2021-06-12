@@ -9,7 +9,7 @@
 ## 統計資料
 [![JacobLinCool's Github Stats](https://github-readme-stats.vercel.app/api?username=JacobLinCool&show_icons=true&count_private=true&hide=stars&include_all_commits=true&custom_title=GitHub%20Stats)](https://github.com/JacobLinCool)
 
-[![JacobLinCool's Leetcode Stats](https://leetcode-card.jacob.workers.dev/?username=JacobLinCool&boder=0.5&width=498&height=198&style=auto)](https://leetcode.com/JacobLinCool)
+[![JacobLinCool's Leetcode Stats](https://leetcode-card.jacob.workers.dev/?username=JacobLinCool&boder=0.5&style=auto&extension=true)](https://leetcode.com/JacobLinCool)
 
 <!--
 **JacobLinCool/JacobLinCool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
