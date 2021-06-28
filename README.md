@@ -1,3 +1,20 @@
+<!-- Some Cards -->
+<p align="center">
+  <a href="https://github.com/JacobLinCool?tab=repositories">
+    <img title="JacobLinCool's Github Stats" alt="JacobLinCool's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JacobLinCool&show_icons=true&count_private=true&hide=stars&include_all_commits=true&custom_title=GitHub%20Stats" />
+  </a>
+  <br />
+  <a href="https://github.com/JacobLinCool#user-activity-overview">
+    <img title="JacobLinCool's Github Streak" alt="JacobLinCool's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JacobLinCool" />
+  </a>
+  <br />
+  <a href="https://leetcode.com/JacobLinCool">
+    <img title="JacobLinCool's LeetCode Stats" alt="JacobLinCool's LeetCode Stats" src="https://leetcode.card.workers.dev/?username=JacobLinCool&border=0.5&style=auto&font=Baloo%202&width=498&r=0" />
+  </a>
+</p>
+  
+<hr />
+
 ## 個人資料
 - 姓名: 林振可 (Jacob Lin)
 - Email: jacoblincool@gmail.com
@@ -5,11 +22,6 @@
 
 ## 簡介
 前陣子剛畢業於[師大附中 1481 班](https://1481.github.io/)，準備於師大資工系就讀。
-
-## 統計資料
-[![JacobLinCool's Github Stats](https://github-readme-stats.vercel.app/api?username=JacobLinCool&show_icons=true&count_private=true&hide=stars&include_all_commits=true&custom_title=GitHub%20Stats)](https://github.com/JacobLinCool)
-
-[![JacobLinCool's Leetcode Stats](https://leetcode.card.workers.dev/?username=JacobLinCool&border=0.5&style=auto&font=Baloo%202&width=498&r=0)](https://leetcode.com/JacobLinCool)
 
 <!--
 **JacobLinCool/JacobLinCool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
