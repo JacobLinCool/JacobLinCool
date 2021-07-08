@@ -8,5 +8,5 @@
     "border":0,
     "radius":8,
     "animation":"",
-    "skills":[]
+    "skills":["javascript", "go", "cpp"]
 }
