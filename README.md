@@ -1,3 +1,5 @@
+![](https://branding.card.workers.dev/user=JacobLinCool)
+
 <!-- Some Cards -->
 <p align="center">
   <a href="https://github.com/JacobLinCool?tab=repositories">
