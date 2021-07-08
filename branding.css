@@ -1,4 +1,7 @@
 #title {
     font-size: 4rem;
-    text-shadow: 4px 6px 3px #B4FFDA;
+    text-shadow: 3px 4px 15px #b4ffda;
+}
+#subtitle {
+    text-shadow: 3px 4px 15px #b4ffda;
 }
