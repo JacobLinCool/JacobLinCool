@@ -1,12 +1,12 @@
 {
-    "title":"JacobLinCool",
-    "text":"Student @ NTNU CSIE",
-    "background":"#4F46E5",
-    "color":"#B4FFDA",
-    "width":1000,
-    "height":550,
-    "border":0,
-    "radius":8,
-    "animation":"",
-    "skills":["cpp", "javascript", "css", "html", "vue", "python", "go"]
+    "title": "JacobLinCool",
+    "text": "Student @ NTNU CSIE",
+    "background": "#4F46E5",
+    "color": "#B4FFDA",
+    "width": 1000,
+    "height": 550,
+    "border": 0,
+    "radius": 8,
+    "animation": "",
+    "skills": ["cpp", "javascript", "vue"]
 }
