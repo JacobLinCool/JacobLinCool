@@ -1,4 +1,4 @@
-![](https://branding.card.workers.dev/user=JacobLinCool)
+<div><img src="https://branding.card.workers.dev/user=JacobLinCool" /></div>
 
 <!-- Some Cards -->
 <p align="center">
