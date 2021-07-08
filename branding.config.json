@@ -6,7 +6,7 @@
     "width":1000,
     "height":550,
     "border":0,
-    "border_radius":8,
+    "radius":8,
     "animation":"",
     "skills":[]
 }
