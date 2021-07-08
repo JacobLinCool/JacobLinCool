@@ -8,5 +8,5 @@
     "border":0,
     "radius":8,
     "animation":"",
-    "skills":["javascript", "cpp", "go", "css", "html", "python", "vue"]
+    "skills":["cpp", "javascript", "css", "html", "vue", "python", "go"]
 }
