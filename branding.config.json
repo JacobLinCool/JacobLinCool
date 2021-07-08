@@ -1,5 +1,6 @@
 {
     "title": "JacobLinCool",
     "text": "Student @ NTNU CSIE",
-    "skills": ["cpp", "javascript", "vue"]
+    "skills": ["cpp", "javascript", "vue"],
+    "custom": true
 }
