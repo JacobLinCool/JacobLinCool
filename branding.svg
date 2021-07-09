@@ -1,0 +1,20 @@
+<defs>
+    <linearGradient id="gradient1" x1="0" x2="1000%" gradientTransform="rotate(45)">
+        <stop offset="0%" stop-color="#fc5c7d"/>
+        <stop offset="20%" stop-color="#6a82fb"/>
+        <stop offset="40%" stop-color="#05dfd7"/>
+        <stop offset="60%" stop-color="#6a82fb"/>
+        <stop offset="80%" stop-color="#fc5c7d"/>
+        <stop offset="100%" stop-color="#6a82fb"/>
+        <animateTransform attributeName="gradientTransform" type="translate" from="-9 0" to="-1 0" begin="0s" dur="12s" repeatCount="indefinite"/>
+    </linearGradient>
+    <style>
+        #gradient1 {
+            animation: gradient1 linear 12s infinite;
+        }
+        @keyframes gradient1 { 
+            from { transform: rotate(45deg) translate(-9px, 0); } 
+            to { transform: rotate(45deg) translate(-1px, 0); } 
+        }
+    </style>
+</defs>
