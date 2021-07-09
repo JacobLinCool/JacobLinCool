@@ -2,5 +2,7 @@
     "title": "JacobLinCool",
     "text": "Student @ NTNU CSIE",
     "skills": ["cpp", "javascript", "vue"],
-    "custom": true
+    "custom": true,
+    "inject": true,
+    "background": "url(#gradient1)"
 }
