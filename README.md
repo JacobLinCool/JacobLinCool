@@ -17,6 +17,10 @@
   
 <hr />
 
+> "Any application that can be written in JavaScript, will eventually be written in JavaScript."  -- Atwood’s Law
+
+<hr />
+
 ## 個人資料
 - 姓名: 林振可 (Jacob Lin)
 - Email: jacoblincool@gmail.com
