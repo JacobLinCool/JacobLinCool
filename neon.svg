@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="690" height="250" viewBox="0 0 690 250" fill="none">
+    <style>
+		@import url("https://fonts.googleapis.com/css?family=Sacramento");
+		
+		@keyframes blink {
+			20%, 24%, 55% {
+				color: #736f4e;
+				text-shadow: none;
+			}
+			
+			0%, 19%, 22%, 23%, 26%, 54%, 57%, 100% {
+				text-shadow: 0 0 5px #ffa500, 0 0 15px #ffa500, 0 0 20px #ffa500, 0 0 40px #ffa500, 0 0 60px #ff0000, 0 0 10px #ff8d00, 0 0 98px #ff0000;
+				color: #fff6a9;
+			}
+		}
+		
+		#title {
+			font-size: 5rem;
+			text-shadow: 0 0 5px #ffa500, 0 0 15px #ffa500, 0 0 20px #ffa500, 0 0 40px #ffa500, 0 0 60px #ff0000, 0 0 10px #ff8d00, 0 0 98px #ff0000;
+			fill: #fff6a9;
+			font-family: "Sacramento", cursive;
+			text-anchor: middle;
+			animation: blink 12s infinite;
+		}
+		#wrap {
+			transform: translate(345px, 125px);
+		}
+    </style>
+    <g id="wrap">
+        <text id="title">JacobLinCool</text>
+    </g>
+</svg>
