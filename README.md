@@ -8,7 +8,7 @@
 ## 簡介
 正在師大資工系就讀，畢業於[師大附中 1481 班](https://1481.github.io/)。
 
-**JavaScript**, C++, Python, Go, M VB6.
+**JavaScript**, C++, Python, Go, Matlab, VB6.
 
 ---
 > "Any application that can be written in JavaScript, will eventually be written in JavaScript."  -- Atwood’s Law
