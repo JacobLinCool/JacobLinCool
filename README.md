@@ -1,5 +1,5 @@
 <!-- ![](https://branding.card.workers.dev/?user=JacobLinCool) -->
-![jacoblincool | NPM package](https://img.shields.io/npm/v/jacoblincool.svg?style=for-the-badge&color=orange)
+[![jacoblincool | NPM package](https://img.shields.io/npm/v/jacoblincool.svg?style=for-the-badge&color=orange)](https://www.npmjs.com/package/jacoblincool)
 
 ## 個人資料
 - 姓名: 林振可 (Jacob Lin)
