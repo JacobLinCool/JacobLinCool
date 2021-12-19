@@ -1,9 +1,12 @@
 <!-- ![](https://branding.card.workers.dev/?user=JacobLinCool) -->
+![jacoblincool | NPM package](https://img.shields.io/npm/v/jacoblincool.svg?style=for-the-badge&color=orange)
+
 ## 個人資料
 - 姓名: 林振可 (Jacob Lin)
 - Email: jacoblincool@gmail.com
 - Facebook: [林振可](https://www.facebook.com/jacob.lin.cool/)
 - LinkedIn: [Jacob Lin](https://www.linkedin.com/in/jacoblincool/)
+
 
 ## 簡介
 正在師大資工系就讀，畢業於[師大附中 1481 班](https://1481.github.io/)。
