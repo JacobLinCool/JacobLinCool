@@ -1,6 +1,10 @@
 <!-- ![](https://branding.card.workers.dev/?user=JacobLinCool) -->
 [![jacoblincool | NPM package](https://img.shields.io/npm/v/jacoblincool.svg?style=for-the-badge&color=orange)](https://www.npmjs.com/package/jacoblincool)
 
+```bash
+npx jacoblincool about
+```
+
 ## 個人資料
 - 姓名: 林振可 (Jacob Lin)
 - Email: jacoblincool@gmail.com
