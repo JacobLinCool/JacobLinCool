@@ -24,7 +24,7 @@ npx jacoblincool about
 <!-- Some Cards -->
 <p align="center">
   <a href="https://github.com/JacobLinCool?tab=repositories">
-    <img title="JacobLinCool's Github Stats" alt="JacobLinCool's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JacobLinCool&show_icons=true&count_private=true&hide=stars&include_all_commits=false&custom_title=GitHub%20Stats" />
+    <img title="JacobLinCool's Github Stats" alt="JacobLinCool's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JacobLinCool&show_icons=true&count_private=true&include_all_commits=false&custom_title=GitHub%20Stats" />
   </a>
   
   <a href="https://github.com/JacobLinCool#user-activity-overview">
