@@ -15,7 +15,7 @@ npx jacoblincool about
 ## 簡介
 正在師大資工系就讀，畢業於[師大附中 1481 班](https://1481.github.io/)。
 
-**TypeScript & JavaScript**, C, C++, Python, Go.
+**TypeScript & JavaScript**, C, C++, Python, Go, Solidity.
 
 ---
 > "Any application that can be written in JavaScript, will eventually be written in JavaScript."  -- Atwood’s Law
