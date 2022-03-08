@@ -322,20 +322,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 7821 edited files from 3492 commits</small>
+                <small>estimation from 7821 edited files from 3496 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="198.07178862874656" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="198.07178862874656" y="0" width="135.62473097893906" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="333.6965196076856" y="0" width="67.50938331689179" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="401.2059029245774" y="0" width="23.926546864406042" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="425.1324497889835" y="0" width="15.345629996255703" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="440.4780797852391" y="0" width="9.058776310508412" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="449.53685609574757" y="0" width="8.878444024262812" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="458.4153001200104" y="0" width="1.584699879989638" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="198.04024401904726" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="198.04024401904726" y="0" width="135.60178233347995" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="333.6420263525272" y="0" width="67.49796026084795" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="401.13998661337513" y="0" width="23.99836300701842" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="425.1383496203935" y="0" width="15.343033409190875" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="440.48138302958444" y="0" width="9.05724350270601" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="449.53862653229044" y="0" width="8.876941729934405" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="458.41556826222484" y="0" width="1.584431737775143" height="8" fill="#ff3e00"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1605,7 +1605,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="14.105 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="14.1825 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1627,7 +1627,7 @@
                                     <span class="prefix">Super</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 682 times</div>
+                                <div class="text">Repositories have been deployed 683 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -1866,7 +1866,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Mar 2022, 13:15:46 (timezone Asia/Taipei) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 8 Mar 2022, 14:20:55 (timezone Asia/Taipei) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
