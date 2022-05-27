@@ -32,7 +32,7 @@ npx jacoblincool about
   </a>
   <br />
   <a href="https://leetcode.com/JacobLinCool">
-    <img title="JacobLinCool's LeetCode Stats" alt="JacobLinCool's LeetCode Stats" src="https://leetcode.card.workers.dev/JacobLinCool?theme=nord&font=baloo&width=498&border=0.5&cache=300" />
+    <img title="JacobLinCool's LeetCode Stats" alt="JacobLinCool's LeetCode Stats" src="https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&font=Paprika&ext=activity" />
   </a>
 </p>
   
