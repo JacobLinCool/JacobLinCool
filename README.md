@@ -15,7 +15,7 @@ npx jacoblincool about
 ## 簡介
 正在師大資工系就讀，畢業於[師大附中 1481 班](https://1481.github.io/)。
 
-**TypeScript & JavaScript**, C, C++, Python, Go, Solidity.
+**TypeScript & JavaScript**, C, Go, C++, Python, Solidity.
 
 ---
 > "Any application that can be written in JavaScript, will eventually be written in JavaScript."  -- Atwood’s Law
@@ -31,7 +31,7 @@ npx jacoblincool about
     <img title="JacobLinCool's Github Streak" alt="JacobLinCool's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JacobLinCool" />
   </a>
   <br />
-  <a href="https://leetcode.com/JacobLinCool">
+  <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card" target="_blank">
     <img title="JacobLinCool's LeetCode Stats" alt="JacobLinCool's LeetCode Stats" src="https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&font=Paprika&ext=activity" />
   </a>
 </p>
