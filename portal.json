@@ -10,7 +10,8 @@
         {
             "block": "chat",
             "permission": 0,
-            "greeting": "👋 嗨！我是林振可（Jacob Lin），目前就讀於師大資工\n我喜歡設計些有趣的程式（像是這個 Portal）🎨"
+            "greeting": "👋 嗨！我是林振可（Jacob Lin），目前就讀於師大資工\n我喜歡設計些有趣的程式（像是這個 Portal）🎨\n你可以跟我的助理 PortalGPT 詢問關於我的事。",
+            "about": "林振可對於應用類資訊科學有興趣，包含使用者體驗、資料視覺化、人工智慧等等。喜歡用 TypeScript、Rust、Go、Docker 等等作為建構應用程式的工具。他具有豐富的前端開發經驗，包含 Svelte、Vue、React 和 TailwindCSS 等等。"
         },
         {
             "block": "action",
