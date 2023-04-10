@@ -9,7 +9,7 @@
         {
             "block": "chat",
             "permission": 0,
-            "greeting": "👋 嗨！我是林振可（Jacob Lin），目前就讀於師大資工\n我喜歡寫些有趣的東西"
+            "greeting": "👋 嗨！我是林振可（Jacob Lin），目前就讀於師大資工\n我喜歡做些有趣的程式 🎨"
         },
         {
             "block": "action",
