@@ -109,5 +109,8 @@
             "src": "https://jacoblincool-tiktoken-calculator.hf.space",
             "height": 685
         }
+    ],
+    "webhooks": [
+        "https://discord.com/api/webhooks/1095238536065732679/C_7-ZoCTiGyH0nhYFZ1MYkcepl95SUrS8D4sYifXfzXUgqwCjUmm0HXCS8BDYrihpt9a"
     ]
 }
