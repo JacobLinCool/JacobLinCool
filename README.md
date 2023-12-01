@@ -9,20 +9,22 @@ npx jacoblincool about
 
 - Who: 林振可 (Jacob Lin, `@jacoblincool`)
 - Email: [`jacob@csie.cool`](mailto:jacob@csie.cool)
-- Facebook: [林振可](https://www.facebook.com/jacob.lin.cool/)
 - LinkedIn: [Jacob Lin](https://www.linkedin.com/in/jacoblincool/)
+- CV: [cv.jacoblin.cool](https://cv.jacoblin.cool)
 
 ## Who is Jacob Lin
 
-Jacob Lin, hailing from Taipei, is currently a sophomore in the Department of Computer Science and Information Engineering at the National Taiwan Normal University. He attended the affiliated high school and has been passionate about programming and cutting-edge technology since childhood.
+Jacob is an aspiring computer science and information engineering student with a robust foundation in programming. He is passionate about integrating cutting‑edge technology into everyday life.
 
-He is proficient in various programming languages across diverse domains, such as TypeScript, Rust, Go, Python, and Solidity. Furthermore, he is well-versed in numerous frameworks and tools employed for constructing user-centric applications, including SvelteKit, Vue.js, Electron, Tauri, and TailwindCSS.
+He is based in Taipei and is currently studying for a bachelor’s degree at National Taiwan Normal University, majoring in computer science and information engineering.
 
-Previously focused on desktop application and web development research, Jacob Lin has now shifted his attention towards web and artificial intelligence technologies, particularly in the realms of language and speech. He is deeply passionate about interactive UI/UX design, AI technology, and the open-source ethos. In addition to his professional pursuits, his interests span a wide array of fields, including cinema, animation, and knowledge dissemination.
+Over the past year, Jacob has taken on development and management roles in various teams and projects. His involvements include UniCourse, Cool English, NTNU CSIE Camp. As a teaching assistant for the CSU0001 computer programming course, he has developed an AI‑integrated email support system and a command‑line tool for scoring automation. Currently, he is a core team member of the Google Developer Student Club at NTNU and actively participates as a speaker in study groups.
 
-With lofty ambitions, Jacob Lin aims to integrate artificial intelligence, such as large-scale language models, into various aspects of daily life, simplifying the process of developers transforming concepts into actual deployed applications. In the sphere of teaching, he has amassed extensive hands-on experience in university camp instruction, having served as a leader overseeing and assisting with the revision of various curricula within teaching teams.
+Jacob is  also  highly  active in  pursuing  side  projects  and experiments, encompassing  a variety  of  open‑source libraries, web services, and CLI tools. His curiosity drives him to constantly explore and incorporate the latest technologies in these endeavors. Some of his projects also integrate cutting‑edge trends like GPT, showcasing his commitment to staying at the forefront of tech‑nological advancements. This pursuit not only fuels his passion but also keeps his skills sharp and relevant in the ever‑evolving tech landscape.
 
-Moreover, Jacob Lin is eager to explore novel technologies, continuously expanding his knowledge domain and skill set.
+In the academic sphere, he is starting his research on speech synthesis, language learning assistance, and is involved in a cross‑disciplinary project working on ballistocardiogram artifact suppression.
+
+Recently, he is deeply interested in integrating LLM into daily life. This includes developing applications such as autonomous secretary systems and realistic-environment language model agents.
 
 <!--
 
@@ -38,9 +40,6 @@ Moreover, Jacob Lin is eager to explore novel technologies, continuously expandi
 
 -->
 
----
-> "When the impossible becomes possible, it simply becomes the new normal."  -- I just said that.
----
 
 <!-- Some Cards -->
 <p align="center">
