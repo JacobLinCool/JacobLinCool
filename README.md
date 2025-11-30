@@ -14,17 +14,36 @@ npx jacoblincool about
 
 ## Who is Jacob Lin
 
-Jacob is an aspiring computer science and information engineering student with a robust foundation in programming. He is passionate about integrating cutting‑edge technology into everyday life.
+Jacob is an aspiring computer science and information engineering student with a robust foundation in programming. He is passionate about integrating cutting-edge technology into everyday life.
 
-He is based in Taipei and is currently studying for a bachelor’s degree at National Taiwan Normal University, majoring in computer science and information engineering.
+He is based in Taipei and is currently studying for a bachelor's degree at National Taiwan Normal University, majoring in computer science and information engineering.
 
-Over the past year, Jacob has taken on development and management roles in various teams and projects. His involvements include UniCourse, Cool English, NTNU CSIE Camp. As a teaching assistant for the CSU0001 computer programming course, he has developed an AI‑integrated email support system and a command‑line tool for scoring automation. Currently, he is a core team member of the Google Developer Student Club at NTNU and actively participates as a speaker in study groups.
+Over the past year, Jacob has taken on development and management roles in various teams and projects. His involvements include UniCourse, Cool English, NTNU CSIE Camp. As a teaching assistant for the CSU0001 computer programming course, he has developed an AI-integrated email support system and a command-line tool for scoring automation. Currently, he is a core team member of the Google Developer Student Club at NTNU and actively participates as a speaker in study groups.
 
-Jacob is  also  highly  active in  pursuing  side  projects  and experiments, encompassing  a variety  of  open‑source libraries, web services, and CLI tools. His curiosity drives him to constantly explore and incorporate the latest technologies in these endeavors. Some of his projects also integrate cutting‑edge trends like GPT, showcasing his commitment to staying at the forefront of tech‑nological advancements. This pursuit not only fuels his passion but also keeps his skills sharp and relevant in the ever‑evolving tech landscape.
+Jacob is also highly active in pursuing side projects and experiments, encompassing a variety of open-source libraries, web services, and CLI tools. His curiosity drives him to constantly explore and incorporate the latest technologies in these endeavors. Some of his projects also integrate cutting-edge trends like GPT and LLMs, showcasing his commitment to staying at the forefront of technological advancements. This pursuit not only fuels his passion but also keeps his skills sharp and relevant in the ever-evolving tech landscape.
 
-In the academic sphere, he is starting his research on speech synthesis, language learning assistance, and is involved in a cross‑disciplinary project working on ballistocardiogram artifact suppression.
+In the academic sphere, he is starting his research on speech synthesis, language learning assistance, and is involved in a cross-disciplinary project working on ballistocardiogram artifact suppression.
 
 Recently, he is deeply interested in integrating LLM into daily life. This includes developing applications such as autonomous secretary systems and realistic-environment language model agents.
+
+## Featured Open Source Projects
+
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [LeetCode-Stats-Card](https://github.com/JacobLinCool/LeetCode-Stats-Card) | Show your dynamically generated LeetCode stats on your GitHub profile or website | ![](https://img.shields.io/github/stars/JacobLinCool/LeetCode-Stats-Card?style=flat-square) |
+| [d1-manager](https://github.com/JacobLinCool/d1-manager) | Web UI and API for Cloudflare D1 with AI assistant for natural language queries | ![](https://img.shields.io/github/stars/JacobLinCool/d1-manager?style=flat-square) |
+| [LeetCode-Query](https://github.com/JacobLinCool/LeetCode-Query) | A LeetCode Query API for TypeScript & JavaScript | ![](https://img.shields.io/github/stars/JacobLinCool/LeetCode-Query?style=flat-square) |
+| [node-cloudflared](https://github.com/JacobLinCool/node-cloudflared) | Cloudflared in Node. Create HTTPS tunnel in 10 seconds | ![](https://img.shields.io/github/stars/JacobLinCool/node-cloudflared?style=flat-square) |
+| [smart-whisper](https://github.com/JacobLinCool/smart-whisper) | Native Node.js addon for whisper.cpp with automatic model management | ![](https://img.shields.io/github/stars/JacobLinCool/smart-whisper?style=flat-square) |
+| [playwright-docker](https://github.com/JacobLinCool/playwright-docker) | Playwright Docker Images for multiple platforms and browsers | ![](https://img.shields.io/github/stars/JacobLinCool/playwright-docker?style=flat-square) |
+| [sveltekit-api](https://github.com/JacobLinCool/sveltekit-api) | Handle SvelteKit data flows with automatic OpenAPI documentation | ![](https://img.shields.io/github/stars/JacobLinCool/sveltekit-api?style=flat-square) |
+| [selflare](https://github.com/JacobLinCool/selflare) | Compile Cloudflare Workers to Cap'n Proto and deliver as Docker images | ![](https://img.shields.io/github/stars/JacobLinCool/selflare?style=flat-square) |
+
+## Technologies & Skills
+
+**Languages:** TypeScript, Rust, Go, Python, C/C++, Solidity
+
+**Frameworks & Tools:** SvelteKit, Vue.js, Electron, Tauri, TailwindCSS, Docker, Cloudflare Workers
 
 <!--
 
